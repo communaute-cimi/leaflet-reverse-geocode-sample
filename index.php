@@ -87,9 +87,7 @@
                        marker = L.marker(mymap.getCenter()).addTo(mymap).bindPopup(
                             'Aucun résultat :(('
                         ).togglePopup(); 
-                    }
- 
-                    
+                    }                    
                 });
             }
         </script>        
@@ -123,6 +121,6 @@
       </div>
     </nav>
 
-<div id="mapid" style="margin-top:140px; width: 100%; height: 600px;"></div>
+<div id="mapid" style="margin-top:70px; width: 100%; height: 600px;"></div>
 </body>
 </html>
