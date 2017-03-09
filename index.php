@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	
-	<title>Quick Start - Leaflet</title>
+	<title>Démo LeafLet / reverse géocodage -> api-adresse.data.gouv.fr</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -121,6 +120,6 @@
       </div>
     </nav>
 
-<div id="mapid" style="margin-top:70px; width: 100%; height: 600px;"></div>
+<div id="mapid" style="margin-top:60px; width: 100%; height: 600px;"></div>
 </body>
 </html>
