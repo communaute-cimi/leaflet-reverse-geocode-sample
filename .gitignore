@@ -1,0 +1,10 @@
+*.DS_Store
+
+#netbeans
+
+nbproject*
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
